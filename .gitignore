@@ -1,0 +1,7 @@
+# Local secrets and runtime state
+*.env
+*.key
+*.crt
+config.yaml
+hy2.sh.local
+.DS_Store
